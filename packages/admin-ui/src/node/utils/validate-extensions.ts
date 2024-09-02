@@ -1,4 +1,3 @@
-// @ts-nocheck
 import { parse, ParseResult, ParserOptions } from "@babel/parser"
 import traverse, { NodePath } from "@babel/traverse"
 import type {
